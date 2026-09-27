@@ -1,4 +1,4 @@
-# brp-stopregen
+# bluster-stopregen
 - A simple script to stop the health glitch where you keep regening health
 - This will not affect food or drug buffs etc.
 
@@ -7,13 +7,13 @@ NONE! This is a standalone sript
 
 # Installation
 
-- unzip the file → brp-stopregen
+- unzip the file → bluster-stopregen
 - Remove **main** from the name
 - place it in your server's resource folder
 
 - make sure to add
 - ```
-  ensure brp-stopregen
+  ensure bluster-stopregen
   ```
 - to your server.cfg
 - If you have it in a subfolder like [standalone] no need to ensure it
